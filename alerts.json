@@ -1,0 +1,12 @@
+[
+  {"name": "리브스메드", "symbol": "491000.KQ", "target": 38000, "direction": "below", "notified": false},
+  {"name": "TSLA", "symbol": "TSLA", "target": 380, "direction": "below", "notified": false},
+  {"name": "IONQ", "symbol": "IONQ", "target": 53, "direction": "below", "notified": false},
+  {"name": "JOBY", "symbol": "JOBY", "target": 9.27, "direction": "below", "notified": false},
+  {"name": "PLTR", "symbol": "PLTR", "target": 120, "direction": "below", "notified": false},
+  {"name": "TEM", "symbol": "TEM", "target": 42, "direction": "below", "notified": false},
+  {"name": "HIMS", "symbol": "HIMS", "target": 30, "direction": "below", "notified": false},
+  {"name": "INFQ", "symbol": "INFQ", "target": 11, "direction": "below", "notified": false},
+  {"name": "IREN", "symbol": "IREN", "target": 52, "direction": "below", "notified": false},
+  {"name": "LAES", "symbol": "LAES", "target": 2.71, "direction": "below", "notified": false}
+]
