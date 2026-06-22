@@ -32,7 +32,7 @@
     "symbol": "PLTR",
     "target": 120,
     "direction": "below",
-    "notified": false
+    "notified": true
   },
   {
     "name": "TEM",
