@@ -11,21 +11,21 @@
     "symbol": "TSLA",
     "target": 380,
     "direction": "below",
-    "notified": false
+    "notified": true
   },
   {
     "name": "IONQ",
     "symbol": "IONQ",
     "target": 53,
     "direction": "below",
-    "notified": false
+    "notified": true
   },
   {
     "name": "JOBY",
     "symbol": "JOBY",
     "target": 9.27,
     "direction": "below",
-    "notified": false
+    "notified": true
   },
   {
     "name": "PLTR",
@@ -60,7 +60,7 @@
     "symbol": "IREN",
     "target": 52,
     "direction": "below",
-    "notified": false
+    "notified": true
   },
   {
     "name": "LAES",
